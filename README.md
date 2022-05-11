@@ -33,11 +33,6 @@
 
 - В сервисе реализован чат курьера с клиентом, где происходит обмен сообщений и можно уточнить детали доставки
 
-
-
-
-
-
 ## Запуск проекта
 
 Для запуска проекта вам необходимо набрать команду в терминале:
@@ -63,26 +58,23 @@ npm start
 - Express
 - MongoDB
 
-
 ## Использованные библиотеки 📚
 
- - Redux
- - Redux Thunk
- - React Router
- - Mongoose
- - Socket.IO
- - Yandex Maps API
- - Multer
- - bcrypt
- - jsonwebtoken
- - Moment.js
- - dotenv
- - Axios
- - React Scroll
-
+- Redux
+- Redux Thunk
+- React Router
+- Mongoose
+- Socket.IO
+- Yandex Maps API
+- Multer
+- bcrypt
+- jsonwebtoken
+- Moment.js
+- dotenv
+- Axios
+- React Scroll
 
 ## Команда проекта
-
 
 <h3>
   <a href="https://github.com/AbuYas7">
@@ -97,7 +89,7 @@ npm start
 </h3>
 
 <h3>
-  <a href="https://github.com/zhelezobeton">
+  <a href="https://github.com/muskhab">
         🌐Мусхаб Исраилов
   </a>
 </h3>
